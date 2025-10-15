@@ -11,14 +11,16 @@
     "rootDir": "src",
     "sourceMap": true,
     "target": "ES6",
-
+    
     "strict": true,
-
+    
     "esModuleInterop": true,
     "moduleResolution": "Node",
 
     "forceConsistentCasingInFileNames": true,
     "stripInternal": true,
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
+    "noImplicitOverride": false,
+    "isolatedModules": false
   }
 }
