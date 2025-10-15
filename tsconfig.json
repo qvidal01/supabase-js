@@ -20,9 +20,6 @@
     },
     {
       "path": "./packages/core/auth-js"
-    },
-    {
-      "path": "./packages/utils/fetch"
     }
   ]
 }

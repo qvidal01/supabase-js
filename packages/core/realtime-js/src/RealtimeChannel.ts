@@ -10,7 +10,6 @@ import type {
 } from './RealtimePresence'
 import * as Transformers from './lib/transformers'
 import { httpEndpointURL } from './lib/transformers'
-import {} from '@supabase/utils-fetch'
 
 type ReplayOption = {
   since: number
