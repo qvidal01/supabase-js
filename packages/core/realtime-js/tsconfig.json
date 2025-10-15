@@ -15,5 +15,10 @@
     "moduleResolution": "Node",
     "forceConsistentCasingInFileNames": true,
     "stripInternal": true
-  }
+  },
+  "references": [
+    {
+      "path": "../../utils/fetch"
+    }
+  ]
 }
